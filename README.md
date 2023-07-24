@@ -1,14 +1,4 @@
 ![WhatsNew_01_25_2022](https://github.com/sebastianroces/Portfolio-Manager-Stocks-and-commodities/assets/137846123/d3454e81-a1fe-43bd-8d73-064cec813e72)
-![Uploading CryptoTraderAuto-TickersScreen.png…]()
-![Uploading 186918434-a3970be3-173b-47f3-bf8e-d3f96dd09189.png…]()
-![WhatsNew_01_25_2022](https://github.com/sebastianroces/Portfolio-Manager-Stocks-and-commodities/assets/137846123/be1d9c0d-5bea-453d-a152-34666b021f57)
-![Uploading CryptoTraderAuto-TickersScreen.png…]()![Uploading ExchangesForm.png…]()
-![Uploading CryptoTraderAuto-AtGlance.png…]()
-
-![Uploading 186918434-a3970be3-173b-47f3-bf8e-d3f96dd09189.png…]()
-
-![Uploading ExchangesForm.png…]()
-![Uploading CryptoTraderAuto-AtGlance.png…]()
 
 ## About 
 Portfolio Manager allows you to create various applications for stocks or crypto exchanges.
